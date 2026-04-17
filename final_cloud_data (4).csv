@@ -1,0 +1,101 @@
+server_id,cpu_usage,memory_usage,hours_running,server_type,cost_per_hour,daily_cost,status,predicted_cpu,recommendation,idx
+S1,94,43,8,large,20,160,Active,49.44013719,Keep Running,1
+S2,52,36,12,small,5,60,Active,48.30752442,Keep Running,2
+S3,18,27,16,medium,10,160,Idle,47.17491166,Shutdown → Save ₹160,3
+S4,56,40,16,medium,10,160,Active,47.17491166,Keep Running,4
+S5,84,79,8,small,5,40,Active,49.44013719,Keep Running,5
+S6,18,49,12,small,5,60,Active,48.30752442,Keep Running,6
+S7,37,76,24,large,20,480,Active,44.90968614,Keep Running,7
+S8,63,29,12,medium,10,120,Active,48.30752442,Keep Running,8
+S9,93,46,16,small,5,80,Active,47.17491166,Keep Running,9
+S10,7,20,16,large,20,320,Idle,47.17491166,Shutdown → Save ₹320,10
+S11,86,52,16,small,5,80,Active,47.17491166,Keep Running,11
+S12,71,30,24,large,20,480,Active,44.90968614,Keep Running,12
+S13,46,68,8,medium,10,80,Active,49.44013719,Keep Running,13
+S14,57,50,24,small,5,120,Active,44.90968614,Keep Running,14
+S15,58,19,8,small,5,40,Active,49.44013719,Keep Running,15
+S16,26,67,24,large,20,480,Active,44.90968614,Keep Running,16
+S17,5,81,24,medium,10,240,Active,44.90968614,Keep Running,17
+S18,45,10,8,small,5,40,Active,49.44013719,Keep Running,18
+S19,61,76,16,medium,10,160,Active,47.17491166,Keep Running,19
+S20,57,68,8,large,20,160,Active,49.44013719,Keep Running,20
+S21,32,30,12,medium,10,120,Active,48.30752442,Keep Running,21
+S22,32,30,12,small,5,60,Active,48.30752442,Keep Running,22
+S23,30,35,16,large,20,320,Active,47.17491166,Keep Running,23
+S24,19,45,8,large,20,160,Active,49.44013719,Keep Running,24
+S25,62,10,12,medium,10,120,Active,48.30752442,Keep Running,25
+S26,91,19,16,medium,10,160,Active,47.17491166,Keep Running,26
+S27,41,90,16,small,5,80,Active,47.17491166,Keep Running,27
+S28,49,34,16,small,5,80,Active,47.17491166,Keep Running,28
+S29,9,34,12,small,5,60,Active,48.30752442,Keep Running,29
+S30,69,68,8,medium,10,80,Active,49.44013719,Keep Running,30
+S31,12,58,16,large,20,320,Active,47.17491166,Keep Running,31
+S32,80,87,24,medium,10,240,Active,44.90968614,Keep Running,32
+S33,43,88,8,medium,10,80,Active,49.44013719,Keep Running,33
+S34,76,60,24,large,20,480,Active,44.90968614,Keep Running,34
+S35,59,22,8,medium,10,80,Active,49.44013719,Keep Running,35
+S36,44,86,24,large,20,480,Active,44.90968614,Keep Running,36
+S37,44,14,8,large,20,160,Active,49.44013719,Keep Running,37
+S38,81,34,8,small,5,40,Active,49.44013719,Keep Running,38
+S39,68,20,12,medium,10,120,Active,48.30752442,Keep Running,39
+S40,91,75,16,medium,10,160,Active,47.17491166,Keep Running,40
+S41,33,72,16,large,20,320,Active,47.17491166,Keep Running,41
+S42,18,10,16,large,20,320,Idle,47.17491166,Shutdown → Save ₹320,42
+S43,40,66,24,medium,10,240,Active,44.90968614,Keep Running,43
+S44,22,55,8,medium,10,80,Active,49.44013719,Keep Running,44
+S45,17,21,16,large,20,320,Idle,47.17491166,Shutdown → Save ₹320,45
+S46,13,78,12,large,20,240,Active,48.30752442,Keep Running,46
+S47,24,42,16,small,5,80,Active,47.17491166,Keep Running,47
+S48,56,15,16,small,5,80,Active,47.17491166,Keep Running,48
+S49,62,89,8,large,20,160,Active,49.44013719,Keep Running,49
+S50,11,71,16,small,5,80,Active,47.17491166,Keep Running,50
+S51,17,39,8,small,5,40,Active,49.44013719,Keep Running,51
+S52,64,28,16,small,5,80,Active,47.17491166,Keep Running,52
+S53,72,48,8,large,20,160,Active,49.44013719,Keep Running,53
+S54,10,29,8,large,20,160,Idle,49.44013719,Shutdown → Save ₹160,54
+S55,23,54,8,large,20,160,Active,49.44013719,Keep Running,55
+S56,33,12,12,small,5,60,Active,48.30752442,Keep Running,56
+S57,93,50,12,medium,10,120,Active,48.30752442,Keep Running,57
+S58,23,30,8,small,5,40,Active,49.44013719,Keep Running,58
+S59,74,31,12,large,20,240,Active,48.30752442,Keep Running,59
+S60,70,20,8,small,5,40,Active,49.44013719,Keep Running,60
+S61,59,34,16,small,5,80,Active,47.17491166,Keep Running,61
+S62,21,28,24,small,5,120,Active,44.90968614,Keep Running,62
+S63,91,35,12,large,20,240,Active,48.30752442,Keep Running,63
+S64,41,46,16,large,20,320,Active,47.17491166,Keep Running,64
+S65,14,21,24,large,20,480,Idle,44.90968614,Shutdown → Save ₹480,65
+S66,86,77,24,large,20,480,Active,44.90968614,Keep Running,66
+S67,12,48,24,small,5,120,Active,44.90968614,Keep Running,67
+S68,88,53,24,small,5,120,Active,44.90968614,Keep Running,68
+S69,24,86,12,medium,10,120,Active,48.30752442,Keep Running,69
+S70,45,70,12,medium,10,120,Active,48.30752442,Keep Running,70
+S71,20,16,12,medium,10,120,Active,48.30752442,Keep Running,71
+S72,29,50,12,medium,10,120,Active,48.30752442,Keep Running,72
+S73,20,22,12,large,20,240,Active,48.30752442,Keep Running,73
+S74,44,18,8,large,20,160,Active,49.44013719,Keep Running,74
+S75,70,54,24,small,5,120,Active,44.90968614,Keep Running,75
+S76,20,79,12,medium,10,120,Active,48.30752442,Keep Running,76
+S77,89,72,16,medium,10,160,Active,47.17491166,Keep Running,77
+S78,93,87,16,small,5,80,Active,47.17491166,Keep Running,78
+S79,58,58,8,medium,10,80,Active,49.44013719,Keep Running,79
+S80,68,22,24,large,20,480,Active,44.90968614,Keep Running,80
+S81,10,63,24,large,20,480,Active,44.90968614,Keep Running,81
+S82,42,57,24,medium,10,240,Active,44.90968614,Keep Running,82
+S83,63,36,16,small,5,80,Active,47.17491166,Keep Running,83
+S84,95,11,8,medium,10,80,Active,49.44013719,Keep Running,84
+S85,57,22,12,large,20,240,Active,48.30752442,Keep Running,85
+S86,13,23,16,medium,10,160,Idle,47.17491166,Shutdown → Save ₹160,86
+S87,45,30,8,medium,10,80,Active,49.44013719,Keep Running,87
+S88,72,46,16,small,5,80,Active,47.17491166,Keep Running,88
+S89,73,78,16,large,20,320,Active,47.17491166,Keep Running,89
+S90,9,31,8,large,20,160,Active,49.44013719,Keep Running,90
+S91,20,88,16,large,20,320,Active,47.17491166,Keep Running,91
+S92,77,21,12,medium,10,120,Active,48.30752442,Keep Running,92
+S93,53,82,12,medium,10,120,Active,48.30752442,Keep Running,93
+S94,61,67,16,medium,10,160,Active,47.17491166,Keep Running,94
+S95,14,19,24,large,20,480,Idle,44.90968614,Shutdown  Save ₹480,95
+S96,63,79,12,medium,10,120,Active,48.30752442,Keep Running,96
+S97,19,11,16,large,20,320,Idle,47.17491166,Shutdown → Save ₹320,97
+S98,90,30,16,medium,10,160,Active,47.17491166,Keep Running,98
+S99,12,48,24,large,20,480,Active,44.90968614,Keep Running,99
+S100,35,13,12,medium,10,120,Active,48.30752442,Keep Running,100
